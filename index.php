@@ -1,5 +1,6 @@
 <?php
 
-header('Location: ./examples/profile-page.html');
+echo('hello world!');
+header('location: ./examples/profile-page.html');
 
 ?>
