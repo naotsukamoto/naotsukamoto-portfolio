@@ -125,15 +125,15 @@
             <i class="fab fa-twitter"></i>
           </a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
           <!-- btn3 -->
-          <a href="#button" class="btn btn-default btn-round btn-lg btn-icon" rel="tooltip" title="Follow me on Instagram">
+          <a href="https://www.instagram.com/naotarooou/" class="btn btn-default btn-round btn-lg btn-icon" rel="tooltip" title="Follow me on Instagram">
             <i class="fab fa-instagram"></i>
           </a>
         </div>
-        <h3 class="title">About me</h3>
+        <h3 class="title">Message</h3>
         <h5 class="description">Like Bizdev... Now, target on realestate market. ftw</h5>
         <div class="row">
           <div class="col-md-6 ml-auto mr-auto">
-            <h4 class="title text-center">My Portfolio</h4>
+            <h4 class="title text-center">My profile & portfolio</h4>
             <div class="nav-align-center">
               <ul class="nav nav-pills nav-pills-primary nav-pills-just-icons" role="tablist">
                 <li class="nav-item">
