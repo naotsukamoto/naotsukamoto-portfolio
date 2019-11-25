@@ -1,6 +1,6 @@
 <?php
 
-echo('hello world!');
+// echo('hello world!');
 // header('location: ./examples/profile-page.html');
 
 ?>
