@@ -204,9 +204,9 @@
     </div>
     <footer class="footer footer-default">
       <div class=" container ">
-        <!-- <nav>
+        <nav>
           <ul>
-            <li>
+            <!-- <li>
               <a href="#">
                 Creative Tim
               </a>
@@ -215,14 +215,14 @@
               <a href="#">
                 About Us
               </a>
-            </li>
+            </li> -->
             <li>
-              <a href="#">
-                Blog
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8UEr8IA8fLByD8nxnC8SJC9IKYQUGVmDyXzrHfPMxUG3GtA/viewform">
+                お仕事のお問い合わせ
               </a>
             </li>
           </ul>
-        </nav> -->
+        </nav>
         <div class="copyright" id="copyright">
           &copy;
           <script>
