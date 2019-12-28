@@ -217,7 +217,7 @@
               </a>
             </li> -->
             <li>
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8UEr8IA8fLByD8nxnC8SJC9IKYQUGVmDyXzrHfPMxUG3GtA/viewform">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8UEr8IA8fLByD8nxnC8SJC9IKYQUGVmDyXzrHfPMxUG3GtA/viewform" target="_blank">
                 お仕事のお問い合わせ
               </a>
             </li>
