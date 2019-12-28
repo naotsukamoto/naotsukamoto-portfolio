@@ -95,7 +95,7 @@
       </div>
       <div class="container">
         <div class="photo-container">
-          <img src="./assets/img/nao.png" alt="">
+          <img src="./assets/img/nao191129.png" alt="">
         </div>
         <h3 class="title">Nao Tsukamoto</h3>
         <p class="category">Marketers / Bizdev</p>
