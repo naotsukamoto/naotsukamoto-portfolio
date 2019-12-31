@@ -140,16 +140,19 @@
                   <a class="nav-link" data-toggle="tab" href="#profile" role="tablist">
                     <i class="now-ui-icons design_image"></i>
                   </a>
+                  <p>profile</p>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link active" data-toggle="tab" href="#home" role="tablist">
                     <i class="now-ui-icons location_world"></i>
                   </a>
+                  <p>portfolio</p>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" data-toggle="tab" href="#messages" role="tablist">
                     <i class="now-ui-icons sport_user-run"></i>
                   </a>
+                  <p>like</p>
                 </li>
               </ul>
             </div>
@@ -179,6 +182,10 @@
                   </div>
                   <div class="col-md-6">
                     <img src="./assets/img/bg7.jpg" alt="" class="img-raised">
+                    <!-- <div>
+                      <p>Born in Fukuoka</p>
+                      <p>Live in Tokyo/Roppongi</p>
+                    </div> -->
                     <img src="./assets/img/bg8.jpg" alt="" class="img-raised">
                   </div>
                 </div>
